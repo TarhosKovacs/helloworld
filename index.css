@@ -3,6 +3,9 @@
     box-sizing: border-box;
     font-family: papyrus;
     scroll-behavior: smooth;
+}
+
+html {
     zoom: 50%;
 }
 
