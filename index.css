@@ -176,8 +176,8 @@ section img #scene {
 }
 
 img {
-    width: 225px;
-    height: 382.5px;
+    width: 425px;
+    height: 582.5px;
 }
 
 .card,
@@ -189,8 +189,8 @@ img {
 .card7
 {
     margin: 100px auto 0;
-    width: 225px;
-    height: 382.5px;
+    width: 425px;
+    height: 582.5px;
     perspective: 1000px;
 }
 
