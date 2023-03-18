@@ -5,10 +5,6 @@
     scroll-behavior: smooth;
 }
 
-html {
-    zoom: 50%;
-}
-
 body {
     min-height: 100vh;
     overflow-x: hidden;
