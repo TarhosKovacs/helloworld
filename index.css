@@ -303,12 +303,12 @@ img {
 .card__body p {
     text-align: justify;
     color: white;
-    font-size: 15px;
+    font-size: 18px;
     line-height: 1.4;
 }
 
 .card__body #p-lang {
     margin-top: 15px;
-    font-size: 11px;
+    font-size: 14px;
     text-align: center;
 }
