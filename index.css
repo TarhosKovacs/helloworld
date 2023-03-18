@@ -176,8 +176,8 @@ section img #scene {
 }
 
 img {
-    width: 425px;
-    height: 582.5px;
+    width: 525px;
+    height: 530px;
 }
 
 .card,
@@ -189,8 +189,8 @@ img {
 .card7
 {
     margin: 100px auto 0;
-    width: 425px;
-    height: 582.5px;
+    width: 525px;
+    height: 530px;
     perspective: 1000px;
 }
 
@@ -303,12 +303,12 @@ img {
 .card__body p {
     text-align: justify;
     color: white;
-    font-size: 24px;
+    font-size: 15px;
     line-height: 1.4;
 }
 
 .card__body #p-lang {
     margin-top: 15px;
-    font-size: 20px;
+    font-size: 11px;
     text-align: center;
 }
