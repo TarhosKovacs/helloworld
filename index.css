@@ -3,6 +3,7 @@
     box-sizing: border-box;
     font-family: papyrus;
     scroll-behavior: smooth;
+    zoom: 50%;
 }
 
 body {
