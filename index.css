@@ -177,7 +177,7 @@ section img #scene {
 
 img {
     width: 525px;
-    height: 530px;
+    height: 540px;
 }
 
 .card,
@@ -190,7 +190,7 @@ img {
 {
     margin: 100px auto 0;
     width: 525px;
-    height: 530px;
+    height: 540px;
     perspective: 1000px;
 }
 
