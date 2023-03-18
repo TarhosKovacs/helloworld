@@ -283,7 +283,7 @@ img {
 
 .card__header h2 {
     color: rgb(255, 255, 255);
-    font-size: 32px;
+    font-size: 28px;
     font-weight: 900;
     text-transform: uppercase;
     text-align: center;
@@ -295,7 +295,7 @@ img {
 
 .card__body h3 {
     color: white;
-    font-size: 26px;
+    font-size: 25px;
     font-weight: 600;
     margin-bottom: 15px;
 }
